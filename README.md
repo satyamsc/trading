@@ -108,21 +108,7 @@ The application will be accessible at `http://localhost:8080`.
 
 - `POST /signal/{signalId}`: Submit a trading signal with the given `signalId`.
 
-
-### `Docker Commands`
-
-- Build Docker Image:
-
-```
-docker build -t trading-signal-processor .
-```
-
-- Run Docker Container:
-
-```
-docker run -d -p 8080:8080 trading-signal-processor
-```
-- Test Application:
+### `Test Application`
 ```
 $ CURL --request POST 'http://localhost:8080/signal/3'
 ```
