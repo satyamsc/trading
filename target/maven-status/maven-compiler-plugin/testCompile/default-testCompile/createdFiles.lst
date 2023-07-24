@@ -1,0 +1,5 @@
+com/bank/trading/controller/TradingControllerIntegrationTest.class
+com/bank/trading/service/SignalProcessorTest.class
+com/bank/trading/config/LoadConfigTest.class
+com/bank/trading/algo/client/SampleTestClass.class
+com/bank/trading/algo/client/AlgoMethodInvokerTest.class

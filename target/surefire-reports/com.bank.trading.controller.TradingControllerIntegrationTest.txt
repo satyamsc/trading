@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bank.trading.controller.TradingControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.385 s - in com.bank.trading.controller.TradingControllerIntegrationTest

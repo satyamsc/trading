@@ -1,0 +1,38 @@
+{
+  "signals": [
+    {
+      "id": 1,
+      "actions": [
+        { "method": "setUp" },
+        { "method": "setAlgoParam", "params": [1, 60] },
+        { "method": "performCalc" },
+        { "method": "submitToMarket" }
+      ]
+    },
+    {
+      "id": 2,
+      "actions": [
+        { "method": "reverse" },
+        { "method": "setAlgoParam", "params": [1, 80] },
+        { "method": "submitToMarket" }
+      ]
+    },
+    {
+      "id": 3,
+      "actions": [
+        { "method": "setAlgoParam", "params": [1, 90] },
+        { "method": "setAlgoParam", "params": [2, 15] },
+        { "method": "performCalc" },
+        { "method": "submitToMarket" }
+      ]
+    },
+    {
+      "id": 4,
+      "actions": [
+        { "method": "setAlgoParam","params": [1, 90] },
+        { "method": "performCalc" },
+        { "method": "test" }
+      ]
+    }
+  ]
+}
