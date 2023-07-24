@@ -59,13 +59,13 @@ Example `signal_config.json`:
 1. Clone the repository to your local machine.
 
 ```
-git clone https://github.com/your-username/trading-signal-processor.git
+git clone https://github.com/satyamsc/trading.git
 ```
 
 2. Navigate to the project directory.
 
 ```
-cd trading-signal-processor
+cd trading
 ```
 
 3. Build the application using Maven.
